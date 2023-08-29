@@ -12,8 +12,12 @@
         <?php include 'truth_Table.php'; ?>
     </div>
     <div>
-        <h1> Таблица сравнения PHP </h1>
-        <?php include 'comparison_Table.php'; ?>
+        <h1> Таблица гибкого сравнения PHP </h1>
+        <?php include 'flexible_comparison_Table.php'; ?>
+    </div>
+    <div>
+        <h1> Таблица жесткого сравнения PHP </h1>
+        <?php include 'tough_comparison_Table.php'; ?>
     </div>
 </div>
 </body>
